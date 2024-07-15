@@ -9,13 +9,11 @@
 
 - 🌱 I’m currently learning **Microservices**
 
-- 👯 I’m looking to collaborate on [CodeCrackers](https://github.com/ShantanuTenz/codecrackershttps://github.com/ShantanuTenz/codecrackers)
-
 - 🤝 I’m looking for help with [CodeCrackers](https://github.com/ShantanuTenz/codecrackershttps://github.com/ShantanuTenz/codecrackershttps://github.com/ShantanuTenz/codecrackershttps://github.com/ShantanuTenz/codecrackers)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShantanuTenz](https://github.com/ShantanuTenz)
 
-- 💬 Ask me about **Data Structures and Algorithms, Javascript, React, HTML, CSS, Java, Spring boot**
+- 💬 Ask me about **Data Structures and Algorithms, Javascript, React, HTML, CSS, Java, Spring boot, Spring security**
 
 - 📫 How to reach me **shantanueducation8@gmail.com**
 
