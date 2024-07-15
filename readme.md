@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShantanuTenz](https://github.com/ShantanuTenz)
 
-- 💬 Ask me about **Javascript, React, Spring boot**
+- 💬 Ask me about **Data Structures and Algorithms, Javascript, React, HTML, CSS, Java, Spring boot**
 
 - 📫 How to reach me **shantanueducation8@gmail.com**
 
